@@ -26,7 +26,11 @@
 
 <br/>
 
-    
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoulartBruno&layout=compact&langs_count=8&theme=dark"/>
+<div/>
+   
+  
   <h3 align="left">🚀💻 Technologies, Languages & Tools:</h3>
   <div style="display: inline_block"><br>
   <img align="center" alt="GoulartBruno-slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
